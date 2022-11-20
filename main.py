@@ -1,1 +1,1 @@
-print("Project Dbanyan")
+print("Project")
